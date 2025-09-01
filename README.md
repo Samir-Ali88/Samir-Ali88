@@ -28,8 +28,8 @@
 | Game | Platform | Specialty | Status |
 |------|----------|-----------|---------|
 | 🏈 **FIFA** | PC/Console | Career Mode & Ultimate Team | Active |
-| 🏰 **Clash of Clans** | Mobile | Strategy & Clan Leadership | TH Level 12+ |
-| 🔫 **PUBG** | PC/Mobile | Squad Leader & Tactical Play | Crown Tier |
+| 🏰 **Clash of Clans** | Mobile | Strategy & Clan Leadership | TH Level 13+ |
+| 🔫 **PUBG** | PC/Mobile | Squad Leader & Tactical Play | ACE Tier |
 | 🎯 **Valorant** | PC | Team Coordination & Aim | Competitive |
 
 ![FIFA](https://img.shields.io/badge/FIFA-FF6B35?style=for-the-badge&logo=ea&logoColor=white)
@@ -50,16 +50,9 @@
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOLO_SAMIR&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOLO_SAMIR&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 Codeforces
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Solo_Samir&theme=dark)](https://codeforces.com/profile/Solo_Samir)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Solo_Samir)
 
 ---
 
@@ -90,4 +83,8 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Solo_Samir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOLO_SAMIR)
+![Profile Views](https://komarev.com/ghpvc/?username=SOLO_SAMIR&color=blue&style=flat-square)
+
+</div>
