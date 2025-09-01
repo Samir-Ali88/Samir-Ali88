@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Competitive+Programming+Enthusiast;🎮+Multi-Game+Strategist;👥+Leader+%26+Communicator)](https://git.io/typing-svg)
 
-- 🎯 Competitive Programming on Codeforces (handle: SOLO_SAMIR)
+- 🎯 Competitive Programming on Codeforces (handle: Solo_Samir)
 - 💻 Programming: C, C++, Python, Java
 - 🎮 FIFA • Clash of Clans • PUBG • Valorant | 👥 Leadership & communication
 
@@ -59,7 +59,7 @@
 
 ## 🏆 Codeforces
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SOLO_SAMIR&theme=dark)](https://codeforces.com/profile/SOLO_SAMIR)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Solo_Samir&theme=dark)](https://codeforces.com/profile/Solo_Samir)
 
 ---
 
@@ -90,8 +90,4 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SOLO_SAMIR)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOLO_SAMIR)
-![Profile Views](https://komarev.com/ghpvc/?username=SOLO_SAMIR&color=blue&style=flat-square)
-
-</div>
+[![Codeforces](https://img.shields.io/badge/Codeforces
