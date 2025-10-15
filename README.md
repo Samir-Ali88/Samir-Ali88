@@ -1,5 +1,5 @@
 <h1 align="center">
-  ☠️ Ahoy, I'm <a href="https://github.com/yourusername" target="_blank">Imam Samir Ali</a> ⚓
+  ☠️ Ahoy, I'm <a href="https://github.com/Samir-Ali88" target="_blank">Imam Samir Ali</a> ⚓
 </h1>
 
 <h3 align="center">🌊 Full-Stack Dreamer | Code Pirate | Straw Hat Crew Recruit</h3>
@@ -46,8 +46,8 @@
 ### 💥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast&title_color=00C8FF&icon_color=FFD700" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFD700" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samir-Ali88&show_icons=true&theme=highcontrast&title_color=00C8FF&icon_color=FFD700" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-Ali88&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFD700" height="150" />
 </p>
 
 ---
@@ -55,17 +55,7 @@
 ### 🪙 Languages Map
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast" height="150" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github.com/yourusername.png" width="100" alt="GitHub Avatar" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ali88&layout=compact&theme=highcontrast" height="150" />
 </p>
 
 ---
@@ -73,7 +63,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Samir-Ali88"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
