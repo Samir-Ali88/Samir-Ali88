@@ -30,40 +30,16 @@
 
 ---
 
-### 🏝️ Mini One Piece Adventure
+### 🏝️ Mini Treasure Hunt (Emoji Style)
 
 <p align="center">
-  <span style="font-size:50px; display:inline-block; animation: sail 6s infinite alternate;">⛵</span>
-  <span style="font-size:50px; display:inline-block; animation: wave 3s infinite alternate;">🌊</span>
-  <span style="font-size:50px; display:inline-block; animation: sparkle 1.5s infinite alternate;">💎</span>
-  <span style="font-size:50px; display:inline-block; animation: cloud 12s infinite linear;">☁️</span>
-  <span style="font-size:50px; display:inline-block; animation: cloud 15s infinite linear reverse;">☁️</span>
+🌊💎🌊💎⛵🌊💎🌊💎  
+💎🌊⛵🌊💎🌊💎⛵  
+🌊💎🌊💎⛵🌊💎🌊  
+💎⛵🌊💎🌊💎🌊⛵  
 </p>
 
-<style>
-@keyframes sail {
-  0% { transform: translateX(0px) translateY(0px) rotate(0deg); }
-  50% { transform: translateX(60px) translateY(-10px) rotate(10deg); }
-  100% { transform: translateX(0px) translateY(0px) rotate(0deg); }
-}
-
-@keyframes wave {
-  0% { transform: translateX(0px) translateY(0px) rotate(0deg); }
-  50% { transform: translateX(-40px) translateY(10px) rotate(-5deg); }
-  100% { transform: translateX(0px) translateY(0px) rotate(0deg); }
-}
-
-@keyframes sparkle {
-  0% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.5); opacity: 1; }
-  100% { transform: scale(1); opacity: 0.8; }
-}
-
-@keyframes cloud {
-  0% { transform: translateX(-200px); }
-  100% { transform: translateX(600px); }
-}
-</style>
+> 💰 Collect treasures and sail the code seas!  
 
 ---
 
@@ -80,6 +56,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast" height="150" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://github.com/yourusername.png" width="100" alt="GitHub Avatar" />
+  </a>
 </p>
 
 ---
