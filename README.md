@@ -2,7 +2,7 @@
   ☠️ Ahoy, I'm <a href="https://github.com/Samir-Ali88" target="_blank">Imam Samir Ali</a> ⚓
 </h1>
 
-<h3 align="center">🌊 Full-Stack Dreamer | Code Pirate | Straw Hat Crew Recruit</h3>
+<h3 align="center"> Code Pirate | Straw Hat Crew Recruit</h3>
 
 ---
 
