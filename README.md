@@ -1,90 +1,73 @@
-# 👋 Hi, I'm SOLO_SAMIR
+<h1 align="center">
+  Hey there 👋, I'm <a href="https://github.com/yourusername" target="_blank">Imam Samir Ali</a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Competitive+Programming+Enthusiast;🎮+Multi-Game+Strategist;👥+Leader+%26+Communicator)](https://git.io/typing-svg)
-
-- 🎯 Competitive Programming on Codeforces (handle: Solo_Samir)
-- 💻 Programming: C, C++, Python, Java
-- 🎮 FIFA • Clash of Clans • PUBG • Valorant | 👥 Leadership & communication
+<h3 align="center">💻 A Passionate Coder | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 💻 Programming Arsenal
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+Code+Geek+😎;I+love+building+cool+things+with+C%2B%2B+and+Python;Front-end+Designing+is+my+creative+space;Always+learning+new+technologies!" />
+</p>
 
 ---
 
-## 🎮 Gaming Universe
+### 🚀 About Me
 
-<div align="center">
-
-| Game | Platform | Specialty | Status |
-|------|----------|-----------|---------|
-| 🏈 **FIFA** | PC/Console | Career Mode & Ultimate Team | Active |
-| 🏰 **Clash of Clans** | Mobile | Strategy & Clan Leadership | TH Level 13+ |
-| 🔫 **PUBG** | PC/Mobile | Squad Leader & Tactical Play | ACE Tier |
-| 🎯 **Valorant** | PC | Team Coordination & Aim | Competitive |
-
-![FIFA](https://img.shields.io/badge/FIFA-FF6B35?style=for-the-badge&logo=ea&logoColor=white)
-![COC](https://img.shields.io/badge/Clash_of_Clans-FFC107?style=for-the-badge&logo=supercell&logoColor=black)
-![PUBG](https://img.shields.io/badge/PUBG-FF6900?style=for-the-badge&logo=pubg&logoColor=white)
-![Valorant](https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=riotgames&logoColor=white)
-
-</div>
+- 🌱 I’m currently improving my **C++**, **JavaScript**, and **Python** skills.  
+- 💡 I love solving **algorithmic problems** and building **creative projects**.  
+- ⚙️ I enjoy working with **HTML / CSS / JS** to craft beautiful UIs.  
+- 📚 Always exploring **new technologies** and **open-source projects**.  
+- 🎯 Goal: To become a **full-stack developer** and contribute to open source.  
 
 ---
 
-## 👥 Leadership & Communication
+### 🧠 Tech Stack
 
-- 🎮 Gaming team leader (PUBG/Valorant squads)
-- 🏰 Clan leader (Clash of Clans)
-- 🗣️ Strong communication & public speaking
-- 🤝 Conflict resolution and mentoring teammates
-
----
-
-## 🏆 Codeforces
-
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Solo_Samir)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🔧 Tools & Setup
+### 📊 GitHub Stats
 
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD_Ryzen-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-## 🎯 Goals
+### 🌀 Languages Used
 
-- Achieve Specialist on Codeforces
-- Solve 500+ problems (C/C++/Python/Java)
-- Lead more team projects and mentor juniors
-- Build clean, documented open-source projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-## 📫 Connect
+### ✨ Fun Quote
 
-<div align="center">
+> “First, solve the problem. Then, write the code.” – John Johnson
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Solo_Samir)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOLO_SAMIR)
+---
 
+### 🌐 Connect With Me
 
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <em>⭐️ Keep coding, keep improving, and keep inspiring ⭐️</em>
+</p>
+
