@@ -47,13 +47,8 @@
 
 ---
 
-### 🐍 Snake Contribution Game
+![Mario Contribution Graph](https://github.com/Samir-Ali88/Samir-Ali88/blob/output/dist/mario-graph.svg)
 
-<p align="center">
-  <img src="https://github.com/Samir-Ali88/Samir-Ali88/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
