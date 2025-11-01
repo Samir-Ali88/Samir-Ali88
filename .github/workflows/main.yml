@@ -1,0 +1,27 @@
+name: Mario Contribution Graph
+
+on:
+  workflow_dispatch:   # manual trigger
+  schedule:
+    - cron: "0 0 * * *"  # daily at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      - name: Generate Mario Graph
+        run: echo '<svg width="200" height="50"><rect width="20" height="20" fill="red"/></svg>' > dist/mario-graph.svg
+
+      - name: Commit & Push Graph
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Mario Graph"
+          branch: output
+          file_pattern: "dist/mario-graph.svg"
