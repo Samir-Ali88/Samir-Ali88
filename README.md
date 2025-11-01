@@ -30,19 +30,6 @@
 
 ---
 
-### 🏝️ Mini Treasure Hunt (Emoji Style)
-
-<p align="center">
-🌊💎🌊💎⛵🌊💎🌊💎  
-💎🌊⛵🌊💎🌊💎⛵  
-🌊💎🌊💎⛵🌊💎🌊  
-💎⛵🌊💎🌊💎🌊⛵  
-</p>
-
-> 💰 Collect treasures and sail the code seas!  
-
----
-
 ### 💥 GitHub Stats
 
 <p align="center">
@@ -56,6 +43,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ali88&layout=compact&theme=highcontrast" height="150" />
+</p>
+
+---
+
+### 🐍 Snake Contribution Game
+
+<p align="center">
+  <img src="https://github.com/Samir-Ali88/Samir-Ali88/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
