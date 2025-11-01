@@ -47,8 +47,15 @@
 
 ---
 
-![Mario Contribution Graph](https://github.com/Samir-Ali88/Samir-Ali88/blob/output/dist/mario-graph.svg)
+### 👾 Pac-Man Contribution Graph
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-rahmankaium/S-rahmankaium/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-rahmankaium/S-rahmankaium/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/S-rahmankaium/S-rahmankaium/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ### 🌐 Connect With Me
 
