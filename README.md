@@ -28,24 +28,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode&theme=dark" />
 </p>
 
----
 
-### 💥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir-Ali88&show_icons=true&theme=highcontrast&title_color=00C8FF&icon_color=FFD700" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-Ali88&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFD700" height="150" />
-</p>
-
----
-
-### 🪙 Languages Map
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ali88&layout=compact&theme=highcontrast" height="150" />
-</p>
-
----
 
 ### 👾 Pac-Man Contribution Graph
 
